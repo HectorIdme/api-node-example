@@ -1,0 +1,58 @@
+[
+    {
+      "index": 1,
+      "guid": "d5f1fce8-2f25-4537-9184-7da9a7c09e53",
+      "isActive": true,
+      "balance": "$1,316.75",
+      "picture": "http://placehold.it/32x32",
+      "age": 37,
+      "eyeColor": "green",
+      "name": "Wilma Robertson",
+      "gender": "female",
+      "company": "PROFLEX",
+      "email": "wilmarobertson@proflex.com",
+      "phone": "+1 (937) 532-3141"
+    },
+    {
+      "index": 2,
+      "guid": "255884a8-90c7-4a2f-9306-5b22c8561cf9",
+      "isActive": false,
+      "balance": "$1,475.81",
+      "picture": "http://placehold.it/32x32",
+      "age": 24,
+      "eyeColor": "brown",
+      "name": "Cole Foreman",
+      "gender": "male",
+      "company": "SYNKGEN",
+      "email": "coleforeman@synkgen.com",
+      "phone": "+1 (810) 457-3223"
+    },
+    {
+      "index": 3,
+      "guid": "d51ceb03-45b7-4e86-be32-d927c8e1de3f",
+      "isActive": true,
+      "balance": "$1,939.38",
+      "picture": "http://placehold.it/32x32",
+      "age": 26,
+      "eyeColor": "brown",
+      "name": "Rhoda Mccray",
+      "gender": "female",
+      "company": "MAGNAFONE",
+      "email": "rhodamccray@magnafone.com",
+      "phone": "+1 (942) 570-2223"
+    },
+    {
+      "index": 4,
+      "guid": "78d517bc-d7a5-433c-b8e2-ac832f7c9c35",
+      "isActive": false,
+      "balance": "$3,427.59",
+      "picture": "http://placehold.it/32x32",
+      "age": 35,
+      "eyeColor": "blue",
+      "name": "Etta Schneider",
+      "gender": "female",
+      "company": "EXOSPACE",
+      "email": "ettaschneider@exospace.com",
+      "phone": "+1 (896) 441-2130"
+    }
+]
